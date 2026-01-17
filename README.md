@@ -1,73 +1,110 @@
-# Welcome to your Lovable project
+# PRODIGY-FS-04
 
-## Project info
+A full-stack web application built as part of my internship at **Prodigy Infotech**. This project demonstrates responsive UI, clean code structure, and real-world deployment skills using modern web technologies.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 🔗 Live Demo
 
-There are several ways of editing your application.
+👉 https://prodigy-fs-04-blush.vercel.app/
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 📌 About
 
-Changes made via Lovable will be committed automatically to this repo.
+**PRODIGY-FS-04** is designed to showcase a practical full-stack project with seamless frontend and backend integration, demonstrating responsiveness, usability, and maintainability. The focus of this project is to build a real-world web app while maintaining clean code and performance.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🚀 Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Responsive, user-friendly interface  
+- Clean and modular code structure  
+- Live deployment on **Vercel**  
+- Version controlled with **Git & GitHub**  
+- Built with modern web technologies
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🛠️ Built With
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Below are the main technologies used in this project:
 
-# Step 3: Install the necessary dependencies.
-npm i
+- ⚛️ React  
+- 💻 JavaScript / TypeScript  
+- 🎨 Tailwind CSS  
+- 📦 Vite  
+- 🔄 Git & GitHub  
+- 🌐 Vercel (for deployment)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+*You can add any additional frameworks or libraries you used here.*
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🧾 Installation
 
-**Use GitHub Codespaces**
+Follow these steps to run the project locally:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/Purva2907/PRODIGY-FS-04.git
+Navigate to the project folder
 
-## What technologies are used for this project?
+```cd PRODIGY-FS-04```
 
-This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Install dependencies
 
-## How can I deploy this project?
+```npm install```
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+Start the development server
 
-Yes, you can!
+```npm run dev```
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+📦 Usage
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Once the server is running:
+
+✔ Open your browser
+✔ Visit http://localhost:3000 or the port shown in your console
+✔ Explore the web application
+
+You can also edit features, styles, or pages locally and see live reload updates.
+
+🛠 Configuration
+
+If your project uses environment variables, add a .env file at the root and include keys like:
+
+VITE_API_KEY=your_api_key_here
+OTHER_CONFIG=your_value_here
+
+
+(Update this section to match your project’s actual environment variables.)
+
+🧑‍💻 Contributing
+
+Contributions are welcome! If you’d like to improve or extend this project:
+
+Fork the repository
+
+Create a new branch (git checkout -b feature/YourFeature)
+
+Commit your changes
+
+Push and open a Pull Request
+
+📄 License
+
+This project uses the MIT License
+ — feel free to use and modify as per the license terms.
+
+🙌 Acknowledgements
+
+Thanks to Prodigy Infotech for providing hands-on learning opportunities and guidance throughout this internship project.
+
+📫 Contact
+
+If you’d like to reach out:
+
+LinkedIn: https://www.linkedin.com/in/purvapatil
